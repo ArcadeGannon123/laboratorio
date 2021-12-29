@@ -1,12 +1,11 @@
-[
-  "posts":[
+{
+  "posts": [
     {
-      "id":123123
-      "test":123123
+      "id": 1,
+      "title": "hello"
     }
-  ]
-  
-  
-
-
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
