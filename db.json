@@ -2,7 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "direccion": "calle falsa 123"
+      "venta": [ {"tipo": "Almond Furai", "cantidad": 5}, {"tipo": "Coreano Furai", "cantidad": 4}, {"tipo": "Crab Ahumado Tempura", "cantidad": 2} ],
+      "total": 45300
+    },
+    {
+      "id": 2,
+      "direccion": "calle falsa 323"
+      "venta": [ {"tipo": "Almond Furai", "cantidad": 2}, {"tipo": "Coreano Furai", "cantidad": 1}, {"tipo": "Crab Ahumado Tempura", "cantidad": 6} ],
+      "total": 43560
+    },
+    {
+      "id": 3,
+      "direccion": "calle verdadera 123"
+      "venta": [ {"tipo": "Almond Furai", "cantidad": 7}, {"tipo": "Coreano Furai", "cantidad": 4}],
+      "total": 53420
     }
   ],
   "profile": {
